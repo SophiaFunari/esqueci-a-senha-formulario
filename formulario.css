@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(208, 208, 213);
+}
+
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.form-control{
+    margin-bottom: 10px;
+}
+
+label{
+    display: block;
+    margin-bottom: 5px;
+    font-family: Arial, sans-serif;
+}
+
+input,select{
+    width: 100%;
+    padding: 8px;
+}
+
+button{
+    padding: 10px;
+    background-color: rgb(40, 40, 139);
+    color: white;
+    border-radius: 15px;
+    cursor: pointer;
+}
